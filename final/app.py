@@ -38,7 +38,7 @@ def add_logo(logo_path):
     st.markdown(logo_html, unsafe_allow_html=True)
 
 # Add the logo
-add_logo("assets/plotmaster-high-resolution-logo-transparent.png")
+add_logo("final/assets/plotmaster-high-resolution-logo-transparent.png")
 
 # Define your pages
 about_page = st.Page(
